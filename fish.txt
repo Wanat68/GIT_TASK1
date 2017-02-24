@@ -1,21 +1,24 @@
-กุ้งเคย
-ปลา Anglerfish
-ปลาทูน่า Albacore
-ปลา Barracuda
-หอยน้ำจืดใหญ่เอเชีย
-หอยเป๋าฮื้อ
-ปลา Bass
-ปักเป้า
-ปลาวาฬสีน้ำเงิน
-ปลาคาร์พ
-ปลาดุก
-ปลา Cod
-ปลาโลมา
-ปลา Haddock
-ปลา Halibut
-วาฬเพชฌฆาต
-ปลาปิรันย่า
-ปลาแซลมอน
-ปลาฉลาม
-ปลาวาฬ
-ฉลามวาฬ
+Barracuda
+Clam
+Cod
+Dogfish
+Dolphin
+Eel
+Fish
+Goldfish
+Jellyfish
+Lobster
+Stingray
+Starling
+Squid
+Shrimp
+Shark
+Seal
+Seahorse
+Sardine
+Sand Sollar
+Salmon
+Nightingale
+Oyster
+Octopus
+Trout
